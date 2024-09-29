@@ -1,6 +1,6 @@
 # Tableau
 Module 18: Tableau
-Tableau link: https://public.tableau.com/app/profile/paola.van.de.weyer/viz/Module18ChallengeTableau_17271284618200/Map?publish=yes
+Tableau link: https://public.tableau.com/views/Module18ChallengeTableau_17276191381220/Story?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 The Citi Bike share system is one of the fastest-growing transportation networks in major U.S.
 cities. It offers an excellent and accessible way to reduce carbon emissions while promoting fitness. This
