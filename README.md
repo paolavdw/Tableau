@@ -1,5 +1,6 @@
 # Tableau
-Module 18: Tableau
+Module 18: Tableau <br>
+
 Tableau link: https://public.tableau.com/views/Module18ChallengeTableau_17276191381220/Story?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 The Citi Bike share system is one of the fastest-growing transportation networks in major U.S.
